@@ -1,6 +1,6 @@
 # ¡Hola! Soy Antonio Gómez 
 
-🎖️ Veterano condecorado | 📦 Amazonian | 💻 Desarrollador Web Full Stack  
+🎖️ Veterano condecorado | 📦 Amazonian | 💻 Desarrollador Web Full Stack  | 👨 Ese señor con bigote
 
 ---
 

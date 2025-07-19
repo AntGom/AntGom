@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Antonio Gómez 
+¡Hola! Soy Antonio Gómez 
 
 🎖️ Veterano condecorado | 📦 Amazonian | 💻 Desarrollador Web Full Stack  
 

@@ -9,7 +9,7 @@
 Soy Antonio, un desarrollador web full stack con una trayectoria poco común: veterano condecorado y, desde 2020, parte del equipo de Amazon. Gracias a mi experiencia militar y profesional, valoro especialmente la disciplina, el compromiso y la autonomía dentro de equipos multidisciplinares.
 
 ¿Presión? ¡No sé de qué me habla usted! 😅  
-¿Entornos colaborativos exigentes? Pero… ¿los hay de otra forma? 🤣  
+¿Entornos colaborativos exigentes? Pero… ¿los hay de otra tipo? 🤣  
 
 Disfruto del trabajo en equipo y de construir soluciones tecnológicas que aporten valor real.  
 La formación constante y la adopción de nuevas tecnologías siempre han sido una máxima para mí, independientemente del ámbito en el que me encontrase.

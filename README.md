@@ -1,22 +1,31 @@
 # 👋 ¡Hola! Soy Antonio Gómez 
 
-🎖️ Veterano condecorado | 📦 Amazonian  | 💻 Desarrollador Web Full Stack 
+🎖️ Veterano condecorado | 📦 Amazonian | 💻 Desarrollador Web Full Stack  
+
+---
 
 ## 🚀 Sobre mí
 
-Soy Antonio, un desarrollador web full stack con una trayectoria única: veterano condecorado y actualmente (desde 2020) parte del equipo de Amazon. Gracias a mi experiencia militar y profesional, valoro especialmente la disciplina, el compromiso y la autonomía dentro de equipos multidisciplinares. ¿Presión? ¡No se de que me habla usted!😅  ¿Entornos colaborativos exigentes? Pero, ¿los hay de otra forma? 🤣
-Disfruto del trabajo en equipo y construir soluciones tecnológicas que aporten valor real.
+Soy Antonio, un desarrollador web full stack con una trayectoria poco común: veterano condecorado y, desde 2020, parte del equipo de Amazon. Gracias a mi experiencia militar y profesional, valoro especialmente la disciplina, el compromiso y la autonomía dentro de equipos multidisciplinares.
 
-La formación constante y la adopción de nuevas tecnologías han sido siempre (y siguen siendo) una máxima en todo lo que he hecho, independientemente del ámbito en el que me encontrase.
+¿Presión? ¡No sé de qué me habla usted! 😅  
+¿Entornos colaborativos exigentes? Pero… ¿los hay de otra forma? 🤣  
 
+Disfruto del trabajo en equipo y de construir soluciones tecnológicas que aporten valor real.  
+La formación constante y la adopción de nuevas tecnologías siempre han sido una máxima para mí, independientemente del ámbito en el que me encontrase.
 
 - 🔧 Especializado en **React, Node.js, Express y MongoDB**
 
+---
+
 ## 🛠️ Tecnologías que uso
 
-<!-- Frontend -->
+<!-- Lenguajes base -->
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+<!-- Frameworks y librerías -->
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -37,13 +46,17 @@ La formación constante y la adopción de nuevas tecnologías han sido siempre (
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
 
+---
+
 ## 📈 GitHub Stats
 
-![Saltador's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntGom&show_icons=true&theme=dracula)
+![Antonio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntGom&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntGom&layout=compact&theme=dracula)
+
+---
 
 ## 📫 Cómo contactarme
 
-- 📧 Email: antgomdgz@gmail.com
+- 📧 Email: [antgomdgz@gmail.com](mailto:antgomdgz@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/antonio-g%C3%B3mez-dom%C3%ADnguez/)
 - 🌐 [Mi portafolio](https://antgom.github.io/Web-Portfolio/)

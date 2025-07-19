@@ -95,8 +95,8 @@ La formación constante y la adopción de nuevas tecnologías siempre han sido u
 
 ## 💬 Extra
 
-💡 Stack favorito: `React` + `Express` + `MongoDB` + `Tailwind`  
-🛠️ Actualmente trabajando en: funcionalidades de chat, tareas y dashboards personalizados.  
+💡 Stack favorito: `MERN stack`  
+🛠️ Actualmente trabajando en: integracion y sincronización de APIS, funcionalidades de chat, tareas y dashboards personalizados.  
 🤝 Abierto a colaboraciones y nuevos retos.
 
 ---

@@ -1,4 +1,4 @@
-¡Hola! Soy Antonio Gómez 
+# ¡Hola! Soy Antonio Gómez 
 
 🎖️ Veterano condecorado | 📦 Amazonian | 💻 Desarrollador Web Full Stack  
 
@@ -14,7 +14,7 @@ Soy Antonio, un desarrollador web full stack con una trayectoria poco común: ve
 Disfruto del trabajo en equipo y de construir soluciones tecnológicas que aporten valor real.  
 La formación constante y la adopción de nuevas tecnologías siempre han sido una máxima para mí, independientemente del ámbito en el que me encontrase.
 
-- 🔧 Especializado en **React, Node.js, Express y MongoDB**
+- 🔧 Especializado en **Ecosistema JavaScript, MERN stack**
 
 ---
 

@@ -64,12 +64,6 @@ La formación constante y la adopción de nuevas tecnologías siempre han sido u
   </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/AntGom">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntGom&theme=tokyonight" alt="AntGom streak"/>
-  </a>
-</p>
-
 <h3 align="left">Activity:</h3>
 
 [![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=AntGom&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
